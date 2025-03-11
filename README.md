@@ -3,6 +3,8 @@
 
 This document describes the analysis presented in the "Sales Dashboard 2019" Excel spreadsheet for The Coffee Cup Cafe & Eatery. The dashboard provides a high-level overview of the cafe's performance in 2019, highlighting key metrics and trends.
 
+![Coffee Shop Analysis](https://github.com/Devan-Watson/Coffee-Shop-Analysis/blob/main/Dashboard.png "Coffee Shop Analysis")
+
 ## Key Findings
 
 **1. Overall Financial Performance:**
